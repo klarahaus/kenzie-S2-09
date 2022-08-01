@@ -1,0 +1,23 @@
+.title-main {
+    font-size: 35px;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.color-blue {
+    color: #3662ff;
+}
+
+.background-blue {
+    background-color: #3662ff;
+    color: white;
+    padding: 10px 10px;
+}
+
+.background-black {
+    background-color: black;
+    color: white;
+    padding: 10px 10px;
+}
